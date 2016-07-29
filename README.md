@@ -1,7 +1,7 @@
 # pre-receive-uncrustify-hooks
 This repository contains pre-receive hooks(for uncrustify) to use with git.
 
-##pre-receive effect
+##pre-receive Effect
 Run Uncrustify on your sourcefiles and reject the push if style violations have been detected. 
 
 ##reference
